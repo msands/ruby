@@ -1,4 +1,4 @@
-
+#!/home/cellz/.rvm/bin/ruby -w
 #-----------------------------------------------
 #
 # Script Name: RubyJoke.rb
@@ -44,7 +44,7 @@ if answer == "n"
 	Console_Screen.cls
 
 	#Invite the player to return to play later
-	puts "Sorry to hear that.  Please return and play" + "again soon."
+	puts "Sorry to hear that.  Please return and play again soon."
 
 else
 
