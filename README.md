@@ -13,6 +13,7 @@ Folder structure:
         * [HelloWorld.rb](https://github.com/msands/ruby/blob/master/ruby_scripts/HelloWorld.rb)
         * [RubyJoke.rb](https://github.com/msands/ruby/blob/master/ruby_scripts/RubyJoke.rb)
     - Chapter 2 - Interacting with Ruby
+        * [TallTale.rb](https://github.com/msands/ruby/blob/master/ruby_scripts/TallTale.rb)
 
 
 Programming by [Marcel Sands](www.marcelandkim.com)
