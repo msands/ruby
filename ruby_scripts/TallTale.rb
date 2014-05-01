@@ -30,3 +30,12 @@ class Tale
 	end
 
 end
+
+Console_Screen = Screen.new
+
+Console_Screen.cls
+
+print "Would you like to hear an interesting story?" + "(y/n)\n\n: "
+
+answer = STDIN.gets
+answer.chomp!
