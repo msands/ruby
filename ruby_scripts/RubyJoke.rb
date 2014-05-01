@@ -1,4 +1,4 @@
-#!/home/cellz/.rvm/bin/ruby -w
+
 #-----------------------------------------------
 #
 # Script Name: RubyJoke.rb
