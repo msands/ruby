@@ -64,7 +64,7 @@ else
 
 	Console_Screen.cls
 
-	print %Q{Type in the n ame of a thing. (Press Enter)\n\n: }
+	print %Q{Type in the name of a thing. (Press Enter)\n\n: }
 	object = STDIN.gets
 	object.chomp!
 
@@ -82,7 +82,7 @@ else
 
 	Story.P1 = %Q{ Once upon a time in a far away land, just on the
 		outskirts of #{location}, there lived three very brave young
-		children named Alexander, William, and molly.  These children
+		children named Alexander, William, and Molly.  These children
 		were known far and wide as the heroes who once saved the
 		inhabitants of #{location} from an evil #{monster}.  One day,
 		dark clouds descended over #{location}.  For 5 nights and 5 days
