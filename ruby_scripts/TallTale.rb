@@ -119,7 +119,26 @@ else
 		their homes and soon life in #{location} was back to normal.  Alexander,
 		William, and Molly returned to their homes, quitely living on the edge of
 		#{location}, waiting until the day they would be needed again. (Press Enter)
-		
+
 	}
+
+	Console_Screen.cls
+	Story.tell_Story Story.P1
+	STDIN.gets
+
+	Console_Screen.cls
+	Story.tell_Story Story.P2
+	STDIN.gets
+
+	Console_Screen.cls
+	Story.tell_Story Story.P3
+	STDIN.gets
+
+	Console_Screen.cls
+	Story.tell_Story Story.P4
+	STDIN.gets
+
+	Console_Screen.cls
+	puts "Thanks for helping to tell this Tall Tale!!!\n\n"
 
 end
