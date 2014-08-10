@@ -7,6 +7,8 @@ total_characters_nospaces = text.gsub(/\s+/, '').length
 word_count = text.split.length
 sentence_count = text.split(/\.|\?|!/).length
 paragraph_count = text.split(/\n\n/).length
+stopwords = %w{the a by on for of are with just but and to the my I has some in}
+
 
 puts "#{line_count} lines"
 puts "#{total_characters} characters"
